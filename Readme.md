@@ -1,5 +1,5 @@
 # Loan Predictor
-The bank loan predictor is a machine learning tool designed to assist in predicting clients who are likely to default on thier loan. 
+The bank loan predictor is a machine learning tool designed to assist in predicting clients who are likely to default on their loan. 
 ## Overview
 A major proportion of retail bank profit comes from interests in the form of home loans. These loans are borrowed
 by regular income/high earning customers. Banks are most fearful of defaulters, as bad loans (NPA) usually eat
